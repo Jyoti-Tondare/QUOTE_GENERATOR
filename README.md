@@ -1,0 +1,1 @@
+# This is Quote Generator website which can generate random quote
